@@ -104,11 +104,11 @@ transform:translateY(0);
 
 <div class="line"></div>
 
-<p><strong>Begleitung:</strong><br>❤️ Dein Name ❤️</p>
+<p><strong>Begleitung:</strong><br>❤️ mein Bebe ❤️</p>
 
-<p><strong>Datum:</strong><br>Hier Datum eintragen</p>
+<p><strong>Datum:</strong><br>17.07.2026</p>
 
-<p><strong>Zeit:</strong><br>Hier Uhrzeit eintragen</p>
+<p><strong>Zeit:</strong><br>20:30</p>
 
 <div class="line"></div>
 
